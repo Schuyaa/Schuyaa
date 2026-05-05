@@ -1,1 +1,1 @@
-<img width="220" height="660" alt="veryjokerge" src="https://github.com/user-attachments/assets/fdba4952-6755-4fb2-a162-c3f592f2eed5" />
+<img width="660" height="220" alt="veryjokerge" src="https://github.com/user-attachments/assets/fdba4952-6755-4fb2-a162-c3f592f2eed5" />
